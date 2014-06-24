@@ -1,0 +1,19 @@
+{
+  "name": "ng-slide-velocity",
+  "version": "0.0.1",
+  "main": "./ng-slide-velocity.js",
+  "description": "Velocity (http://velocityjs.org/) animations(https://docs.angularjs.org/guide/animations) to slide between ng-views from left to right and viceversa",
+  "keywords": [
+    "angular",
+    "ng-view",
+    "velocity",
+    "slide",
+    "mobile"
+  ],
+  "dependencies": {
+    "angular": "1.2.16",
+    "velocity": "0.1.0",
+    "jquery":"2.1.1"
+  },
+  "homepage": "https://github.com/hybrisCole/ng-slide-velocity",
+}
