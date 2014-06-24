@@ -13,7 +13,18 @@
   "dependencies": {
     "angular": "1.2.16",
     "velocity": "0.1.0",
-    "jquery":"2.1.1"
+    "jquery": "2.1.1"
   },
   "homepage": "https://github.com/hybrisCole/ng-slide-velocity",
+  "authors": [
+    "Alberto Cole <acpii2005@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
