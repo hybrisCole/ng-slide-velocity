@@ -2,7 +2,7 @@
  * @license Alberto Cole v0.0.1
  * (c) 2012-2014 Amatista Digital
  * License: MIT
- */
+ */ 
 (function(window, angular, undefined) {'use strict';
 
   //We are setting the animation as the device with divided by 2
