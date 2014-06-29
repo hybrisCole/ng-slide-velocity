@@ -1,6 +1,6 @@
 {
   "name": "ng-slide-velocity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./ng-slide-velocity.js",
   "description": "Velocity (http://velocityjs.org/) animations(https://docs.angularjs.org/guide/animations) to slide between ng-views from left to right and viceversa",
   "keywords": [
